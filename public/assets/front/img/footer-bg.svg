@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="543" viewBox="0 0 1920 543">
+<style>
+  #Group_5651{
+  animation: move 20s infinite;
+  filter: blur(40px);
+}
+@keyframes move {
+  0%{
+        transform: translate(-192px, 4692.61px);
+  }
+  50%{
+     transform: translate(0px, 4750.61px);
+  }
+  100%{
+     transform: translate(-192px, 4692.61px);
+  }
+}
+</style>
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2406" data-name="Rectangle 2406" width="1920" height="543" transform="translate(0 5413)" fill="#444245"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="1" y1="1" x2="0" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1ed5c3"/>
+      <stop offset="1" stop-color="#bb7271"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_5652" data-name="Group 5652" transform="translate(0 -5413)">
+    <rect id="Rectangle_1981" data-name="Rectangle 1981" width="1920" height="543" transform="translate(0 5413)" fill="#303030"/>
+    <g id="Mask_Group_83" data-name="Mask Group 83" opacity="0.8" clip-path="url(#clip-path)">
+      <g id="Group_5651" data-name="Group 5651" transform="translate(-192 4692.611)">
+        <rect id="Rectangle_2404" data-name="Rectangle 2404" width="1113" height="1167.779" rx="556.5" transform="translate(0 0)" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1" opacity="0.22" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+  </g>
+</svg>
